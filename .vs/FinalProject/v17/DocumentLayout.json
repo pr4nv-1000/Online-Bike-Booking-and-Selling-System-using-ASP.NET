@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\booking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\booking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|e:\\college\\sem 4\\current material\\advanced .net\\lab\\web project\\finalproject\\finalproject\\usres\\gallery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\gallery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\bikes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\bikes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\masterlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\masterlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\finalproject\\usres\\masterlayout.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463F5DF3-EB82-467E-BBFF-53F2C0A3A20B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usres\\masterlayout.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterLayout.Master",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\MasterLayout.Master",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\MasterLayout.Master",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\MasterLayout.Master",
+              "RelativeToolTip": "FinalProject\\Usres\\MasterLayout.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:40:34.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Booking.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Booking.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Booking.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Booking.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Booking.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:53:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Services.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Services.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Services.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Services.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:57:49.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bikes.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Bikes.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Bikes.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Bikes.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Bikes.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:58:37.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gallery.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Gallery.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Gallery.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Gallery.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Gallery.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:50:13.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Contact.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Contact.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Contact.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Contact.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:49:04.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\About.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\About.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\About.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\About.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:47:22.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Login.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Login.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Login.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Login.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T13:00:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Register.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Register.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Register.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Register.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T13:00:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Home.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\Home.aspx",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\Home.aspx",
+              "RelativeToolTip": "FinalProject\\Usres\\Home.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T12:46:18.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MasterLayout.Master.cs",
+              "DocumentMoniker": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\MasterLayout.Master.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Usres\\MasterLayout.Master.cs",
+              "ToolTip": "E:\\COLLEGE\\SEM 4\\CURRENT MATERIAL\\ADVANCED .NET\\LAB\\WEB PROJECT\\FinalProject\\FinalProject\\Usres\\MasterLayout.Master.cs",
+              "RelativeToolTip": "FinalProject\\Usres\\MasterLayout.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:26:50.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
